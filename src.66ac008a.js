@@ -13,4 +13,4 @@ var t,e=require("process"),i=arguments[3];!function(e,i){"object"==typeof export
 },{}],"H99C":[function(require,module,exports) {
 "use strict";var e=a(require("phaser")),r=require("./intro.scene"),t=require("./game.scene");function a(e){return e&&e.__esModule?e:{default:e}}var i={width:240,height:240},u={type:e.default.AUTO,width:2*i.width,height:2*i.height,scene:[r.IntroScene,t.GameScene],backgroundColor:"#43434F",physics:{default:"arcade",arcade:{debug:!1}}},d=new e.default.Game(u);
 },{"phaser":"vWcT","./intro.scene":"N93S","./game.scene":"K0XE"}]},{},["H99C"], null)
-//# sourceMappingURL=/src.66ac008a.js.map
+//# sourceMappingURL=src.66ac008a.js.map
